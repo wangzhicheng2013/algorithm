@@ -1,0 +1,34 @@
+https://blog.csdn.net/qq543564085/article/details/90144469
+这段c语言代码牛逼在哪？
+DONE
+https://www.linuxidc.com/Linux/2018-06/152846.htm
+深入理解Linux用户态驱动设计
+DONE
+https://www.cnblogs.com/appsucc/p/10765892.html
+高质量代码实践
+DONE
+https://www.cnblogs.com/zengyou/p/7762835.html
+C++ 14新特性
+DONE
+https://blog.csdn.net/u012234115/article/details/89857431
+C++11实现简易定时器
+DONE
+https://github.com/button-chen/buttonrpc_cpp14
+c++14 rpc
+https://mmoaay.gitbooks.io/boost-asio-cpp-network-programming-chinese/content/Chapter2.html
+Boost.Asio C++ 网络编程
+DONE
+https://blog.csdn.net/zrs19800702/article/details/52816064
+Boost coroutine 协程
+DONE
+https://blog.csdn.net/guxch/article/details/82803769
+Boost中的协程—Boost.Coroutine2
+DONE
+https://blog.csdn.net/u012234115/article/details/47209679
+C++14新特性
+DONE
+https://www.cnblogs.com/zengkefu/p/5642991.html
+valgrind的callgrind工具进行多线程性能分析
+kcachegrind callgrind.out.3305
+DONE
+
