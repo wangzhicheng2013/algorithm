@@ -31,4 +31,12 @@ https://www.cnblogs.com/zengkefu/p/5642991.html
 valgrind的callgrind工具进行多线程性能分析
 kcachegrind callgrind.out.3305
 DONE
-
+https://www.linuxidc.com/Linux/2018-03/151557.htm
+C++将一个 vector 赋给另一个 vector
+DONE
+https://www.linuxidc.com/Linux/2018-03/151409.htm
+C++实现并排打印多个图案
+DONE
+https://www.linuxidc.com/Linux/2018-04/152114.htm
+一个著名的日志系统是怎么设计出来的？
+DONE
