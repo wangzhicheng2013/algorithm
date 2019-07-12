@@ -40,3 +40,17 @@ DONE
 https://www.linuxidc.com/Linux/2018-04/152114.htm
 一个著名的日志系统是怎么设计出来的？
 DONE
+https://www.cnblogs.com/gtarcoder/p/4810614.html
+c++11——可变参数模板
+DONE
+https://blog.csdn.net/xiaoding133/article/details/7929598
+基于策略(Policy)的类设计
+DONE
+https://www.cnblogs.com/gtarcoder/articles/9010057.html
+C++ traits技术浅谈
+声明内嵌型别似乎是个好主意，这样我们就可
+https://blog.csdn.net/li_wen01/article/details/93597936
+一种基于linux系统的精准流量统计方法
+DONE
+https://blog.csdn.net/lovemysea/article/details/78998818
+关于 template、typename、this 关键字的使用
